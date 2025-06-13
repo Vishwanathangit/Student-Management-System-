@@ -1,0 +1,19 @@
+# Node modules (very large and should not be committed)
+node_modules/
+
+# Environment variables
+.env
+
+# OS-specific files
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# npm debug files
+npm-debug.log*
+
+# VSCode or IDE settings
+.vscode/
+.idea/
